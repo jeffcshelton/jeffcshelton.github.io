@@ -1,0 +1,26 @@
+body {
+	margin: 0 auto;
+	max-width: 750px;
+}
+
+h1 {
+	font-family: "Raleway", sans-serif;
+	text-align: center;
+}
+
+hr {
+	height: 2px;
+
+	border: none;	
+	background: lightgray;
+}
+
+p {
+	font-family: "Raleway", sans-serif;
+	margin-top: 25px;
+}
+
+ul li {
+	font-family: "Raleway", sans-serif;
+}
+
